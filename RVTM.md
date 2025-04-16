@@ -8,7 +8,7 @@
 | [ ] | Deploy a new app to Util using Ansible (not covered in class). | Video |
 | [ ] | AD Infrastructure: MGMT1, DC1, DC2, DFS1, DFS2, W1, W2 must join groupname.local domain. At least one Linux system joined. | Video |
 | [ ] | Create AD group `linux-admins`; group members can sudo to root on a Linux system. | Video |
-| [ ]| Install Docker and a non-WordPress app (e.g. wiki) on it. | Video |
+| [ ]| Install Docker and a non-WordPress app (e.g. wiki) on it. |  [Video](https://drive.google.com/file/d/1IslR3kWc0vkMdkBDQlQ4uQnRg8kViWHg/view?usp=sharing) |
 | [ ] | Create Domain GPO: allow RDP between W1 and W2. | Video |
 | [ ] | GPO for corporate wallpaper on W1, W2, MGMT1. | Video |
 | [ ] | GPO to move W1 and W2 profiles/home to DFS share. | Video |
