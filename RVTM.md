@@ -3,7 +3,7 @@
 | Status | Requirement Description | Test |
 |--------|--------------------------|-----|
 | [x] | Redundant AD infrastructure using DC1 + DC2. One should be able to turn off DC1 or DC2 and still manage AD & log in via W1, W2, MGMT1.| [Video](https://drive.google.com/file/d/1PWz-g6RFrRcl0zI79sNpKHcLhHwJL3M7/view?usp=drive_link) |
-| [x] | DHCP1 and DHCP2 provide redundant DHCP to LAN. Test with ipconfig /release & /renew from W1 after turning off either server. | [Video](https://drive.google.com/file/d/1PWz-g6RFrRcl0zI79sNpKHcLhHwJL3M7/view?usp=drive_link) |
+| [x] | DHCP1 and DHCP2 provide redundant DHCP to LAN. Test with ipconfig /release & /renew from W1 after turning off either server. | [Video](https://drive.google.com/file/d/1M686qNo_CgllN9P6sFQOfMMjIk6t_uUH/view?usp=drive_link) |
 | [ ]| MGMT2 as Ansible controller for all systems except workstations & firewall. Run interactive commands. | Video |
 | [ ] | Deploy a new app to Util using Ansible (not covered in class). | Video |
 | [x] | AD Infrastructure: MGMT1, DC1, DC2, DFS1, DFS2, W1, W2 must join groupname.local domain. At least one Linux system joined. | [Video](https://drive.google.com/file/d/1M6U0JPlu7IlHePfSOTGVKmZ6B6fjB0DB/view?usp=drive_link) |
