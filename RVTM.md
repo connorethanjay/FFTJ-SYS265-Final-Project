@@ -12,7 +12,7 @@
 | [ ] | Create Domain GPO: allow RDP between W1 and W2. | Video |
 | [ ] | GPO for corporate wallpaper on W1, W2, MGMT1. |  [Video](https://drive.google.com/file/d/1lzMmfWHb_1rbvnUB9v1qaY-ZcpQ9vAj1/view?usp=sharing) |
 | [ ] | GPO to move W1 and W2 profiles/home to DFS share. | [Video](https://drive.google.com/file/d/13MLlGqyOHlCc15w0hl_mFYLzndz3VjLQ/view?usp=sharing) |
-| [ ] | Use Ansible to install an `apt` package. | Video |
-| [ ] | Use Ansible to install a `yum` package. | Video |
+| [X] | Use Ansible to install an `apt` package. | Video |
+| [X] | Use Ansible to install a `yum` package. | Video |
 | [ ] | Use Ansible to add a new Linux local user. | Video |
 | [ ] | Use Ansible to add a new Windows domain user. | Video |
