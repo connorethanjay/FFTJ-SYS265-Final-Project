@@ -11,7 +11,7 @@
 | [x]| Install Docker and a non-WordPress app (e.g. wiki) on it. |  [Video](https://drive.google.com/file/d/1IslR3kWc0vkMdkBDQlQ4uQnRg8kViWHg/view?usp=sharing) |
 | [ ] | Create Domain GPO: allow RDP between W1 and W2. | Video |
 | [ ] | GPO for corporate wallpaper on W1, W2, MGMT1. | Video |
-| [ ] | GPO to move W1 and W2 profiles/home to DFS share. | Video |
+| [ ] | GPO to move W1 and W2 profiles/home to DFS share. | [Video](https://drive.google.com/file/d/1lzMmfWHb_1rbvnUB9v1qaY-ZcpQ9vAj1/view?usp=sharing) |
 | [ ] | Use Ansible to install an `apt` package. | Video |
 | [ ] | Use Ansible to install a `yum` package. | Video |
 | [ ] | Use Ansible to add a new Linux local user. | Video |
