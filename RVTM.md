@@ -13,6 +13,6 @@
 | [X] | GPO for corporate wallpaper on W1, W2, MGMT1. |  [Video](https://drive.google.com/file/d/1lzMmfWHb_1rbvnUB9v1qaY-ZcpQ9vAj1/view?usp=sharing) |
 | [X] | GPO to move W1 and W2 profiles/home to DFS share. | [Video](https://drive.google.com/file/d/13MLlGqyOHlCc15w0hl_mFYLzndz3VjLQ/view?usp=sharing) |
 | [X] | Use Ansible to install an `apt` package. | Video |
-| [X] | Use Ansible to install a `yum` package. | Video |
+| [X] | Use Ansible to install a `yum` package. | [Video](https://drive.google.com/file/d/1JLEVdfd6vXQ6ft9Bq8yiJcIL5Gc15C_r/view?usp=sharing) |
 | [X] | Use Ansible to add a new Linux local user. | [Video](https://drive.google.com/file/d/1d3Qh9lQvrMxb_pRCFL9MN9LmFtyM6ArO/view?usp=sharing) |
 | [ ] | Use Ansible to add a new Windows domain user. | Video |
