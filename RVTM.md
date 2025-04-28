@@ -15,4 +15,4 @@
 | [X] | Use Ansible to install an `apt` package. | [Video](https://drive.google.com/file/d/1GdT-eVRAHs4K8lNBUlNevfm0HUakgkA6/view?usp=sharing) |
 | [X] | Use Ansible to install a `yum` package. | [Video](https://drive.google.com/file/d/1JLEVdfd6vXQ6ft9Bq8yiJcIL5Gc15C_r/view?usp=sharing) |
 | [X] | Use Ansible to add a new Linux local user. | [Video](https://drive.google.com/file/d/1d3Qh9lQvrMxb_pRCFL9MN9LmFtyM6ArO/view?usp=sharing) |
-| [ ] | Use Ansible to add a new Windows domain user. | Video |
+| [ ] | Use Ansible to add a new Windows domain user. | [Video](https://drive.google.com/file/d/1QgVBlr30mTOAaFpeeIZ4iJDaTvvfFi_k/view?usp=sharing) |
