@@ -9,7 +9,7 @@
 | [x] | AD Infrastructure: MGMT1, DC1, DC2, DFS1, DFS2, W1, W2 must join groupname.local domain. At least one Linux system joined. | [Video](https://drive.google.com/file/d/1M6U0JPlu7IlHePfSOTGVKmZ6B6fjB0DB/view?usp=drive_link) |
 | [X] | Create AD group `linux-admins`; group members can sudo to root on a Linux system. | [Video](https://drive.google.com/file/d/143g130O0I0lBH_eZ0P8lujuFNugCyHes/view?usp=sharing) |
 | [x]| Install Docker and a non-WordPress app (e.g. wiki) on it. |  [Video](https://drive.google.com/file/d/1IslR3kWc0vkMdkBDQlQ4uQnRg8kViWHg/view?usp=sharing) |
-| [ ] | Create Domain GPO: allow RDP between W1 and W2. | Video |
+| [ ] | Create Domain GPO: allow RDP between W1 and W2. | [Video](https://drive.google.com/file/d/1geIKM_ehYXuaIPcbIDeUMS_LwtWndRd2/view?usp=sharing) |
 | [X] | GPO for corporate wallpaper on W1, W2, MGMT1. |  [Video](https://drive.google.com/file/d/1lzMmfWHb_1rbvnUB9v1qaY-ZcpQ9vAj1/view?usp=sharing) |
 | [X] | GPO to move W1 and W2 profiles/home to DFS share. | [Video](https://drive.google.com/file/d/13MLlGqyOHlCc15w0hl_mFYLzndz3VjLQ/view?usp=sharing) |
 | [X] | Use Ansible to install an `apt` package. | [Video](https://drive.google.com/file/d/1GdT-eVRAHs4K8lNBUlNevfm0HUakgkA6/view?usp=sharing) |
